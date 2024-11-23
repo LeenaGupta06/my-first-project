@@ -27,4 +27,4 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the Repository**  
    Open your terminal and run:
    bash
-   git clone <>
+   git clone <https://github.com/LeenaGupta06/my-first-project.git>
